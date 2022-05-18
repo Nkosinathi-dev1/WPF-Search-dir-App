@@ -1,0 +1,15 @@
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+C:\Users\Nkosinathi\Desktop\Signature Question 2\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.AssemblyReference.cache
